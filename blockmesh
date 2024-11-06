@@ -1,0 +1,1 @@
+curl -O https://raw.githubusercontent.com/FEdanish/BLOCKMESH/refs/heads/main/blockmesh.sh && chmod +x blockmesh.sh && ./blockmesh.sh
